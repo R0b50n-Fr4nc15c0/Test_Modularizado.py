@@ -1,0 +1,13 @@
+import tests.test_soma
+import tests.test_produto
+import tests.test_equacao_parabolica
+import tests.test_is_prime
+import tests.test_factorial
+import tests.test_divide
+import tests.test_calculate_average
+import tests.test_read_file_content
+import tests.test_flatten_list
+import tests.test_count_word_occurrences
+import tests.test_reverse_string
+import tests.test_authenticate_user
+#import tests.test_get_environment_variable
